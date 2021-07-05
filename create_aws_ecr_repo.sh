@@ -3,7 +3,7 @@
 ACCOUNT=352318176854
 REGION=ap-south-1
 SECRET_NAME=${REGION}-ecr-registry
-EMAIL=ybmadhu404@gmail.com
+EMAIL=rameshkurumalla@gmail.com
 
 #
 # Fetch token (which will expire in 12 hours)
